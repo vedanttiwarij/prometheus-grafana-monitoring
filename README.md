@@ -1,4 +1,3 @@
-
 # 📊 Prometheus + Grafana Monitoring Stack
 
 A fully containerized observability project that monitors a live Flask application using **Prometheus** for metrics collection and **Grafana** for real-time visualization — orchestrated entirely with **Docker Compose**.
@@ -69,13 +68,23 @@ Once running, access:
 ## 🖼️ Screenshots
 
 ### Flask App Running
-<img width="1920" height="1080" alt="Screenshot (539)" src="https://github.com/user-attachments/assets/c3529db3-22d6-40ff-83aa-76dd41b0d5b3" />
+<img width="1920" height="1080" alt="Screenshot (539)" src="https://github.com/user-attachments/assets/8bc1c44a-cbeb-4c6d-9283-1f7981d158a9" />
+<img width="1920" height="1080" alt="Screenshot (539)" src="https://github.com/user-attachments/assets/87fe5757-cd57-4ebf-963d-cd09d319807c" />
 
 
+### Raw Prometheus Metrics Endpoint
+![Metrics Endpoint]<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/435fc41f-99bd-4689-a5c1-a5cbe215b222" />
+<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/6b98173e-1e93-46b2-90a4-93684aabf729" />
 
-### Raw Prometheus Metrics Endpoint<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/d34c1680-a951-4a36-bdb1-9e87d52ed5e6" 
 
-### Prometheus Target Health<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/d6dc2595-a0d8-41ba-80f1-5839ea68cc51" 
+### Prometheus Target Health
+![Prometheus Targets]
+<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/579572c4-c263-44fc-8805-f1e20c245a78" />
+<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/9a93badd-d545-4c04-bd7b-03207555c929" />
+
+### Grafana Real-Time Dashboard
+![Grafana Dashboard]<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/81bab5be-2f7f-4ebc-a437-f4eda77f7e34" />
+<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/199463da-f021-4f02-93ad-13c9f18e4f10" />
 
 
 ## 🐛 Challenges Faced & Solutions
