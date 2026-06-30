@@ -73,13 +73,9 @@ Once running, access:
 
 
 
-### Raw Prometheus Metrics Endpoint<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/d34c1680-a951-4a36-bdb1-9e87d52ed5e6" /><img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/f690f7c0-a4bd-4f48-9fcf-143033a6b7ea" />
+### Raw Prometheus Metrics Endpoint<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/d34c1680-a951-4a36-bdb1-9e87d52ed5e6" 
 
-
-### Prometheus Target Health<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/d6dc2595-a0d8-41ba-80f1-5839ea68cc51" /><img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/fbd24be5-ca42-477b-9c92-2c5605bf17d4" />
-
-
-
+### Prometheus Target Health<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/d6dc2595-a0d8-41ba-80f1-5839ea68cc51" 
 
 
 ## 🐛 Challenges Faced & Solutions
