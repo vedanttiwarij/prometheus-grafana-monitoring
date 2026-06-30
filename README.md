@@ -82,8 +82,8 @@ Once running, access:
 <img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/579572c4-c263-44fc-8805-f1e20c245a78" />
 <img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/9a93badd-d545-4c04-bd7b-03207555c929" />
 
-### Grafana Real-Time Dashboard
-![Grafana Dashboard]<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/81bab5be-2f7f-4ebc-a437-f4eda77f7e34" />
+### Docker Dashboard
+![Grafana Dashboard]
 <img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/199463da-f021-4f02-93ad-13c9f18e4f10" />
 
 
