@@ -1,0 +1,12 @@
+global:
+  scrape_interval: 15s     # har 15 second mein naya data collect karega
+  evaluation_interval: 15s # alert rules ko har 15 sec mein check karega
+
+scrape_configs:
+  - job_name: 'sample-app'
+    static_configs:
+      - targets: ['sample-app:5000']   # docker-compose service name + port
+
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']    # Prometheus khud ko bhi monitor karta hai
