@@ -68,18 +68,18 @@ Once running, access:
 ## 🖼️ Screenshots
 
 ### Flask App Running
-<img width="1920" height="1080" alt="Screenshot (539)" src="https://github.com/user-attachments/assets/8bc1c44a-cbeb-4c6d-9283-1f7981d158a9" />
+
 <img width="1920" height="1080" alt="Screenshot (539)" src="https://github.com/user-attachments/assets/87fe5757-cd57-4ebf-963d-cd09d319807c" />
 
 
 ### Raw Prometheus Metrics Endpoint
-![Metrics Endpoint]<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/435fc41f-99bd-4689-a5c1-a5cbe215b222" />
+![Metrics Endpoint]
 <img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/6b98173e-1e93-46b2-90a4-93684aabf729" />
 
 
 ### Prometheus Target Health
 ![Prometheus Targets]
-<img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/579572c4-c263-44fc-8805-f1e20c245a78" />
+
 <img width="1920" height="1080" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/9a93badd-d545-4c04-bd7b-03207555c929" />
 
 ### Docker Dashboard
